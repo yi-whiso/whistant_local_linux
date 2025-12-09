@@ -1,0 +1,7 @@
+# Ignore all dist contents
+dist/
+
+# Keep AppImage and README at root
+!*.AppImage
+!*.appimage
+!README.md
